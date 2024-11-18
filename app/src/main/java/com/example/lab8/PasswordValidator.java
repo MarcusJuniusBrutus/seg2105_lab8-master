@@ -20,4 +20,5 @@ public class PasswordValidator {
         if (hasUpperCase && hasLowerCase && hasNumber) return true;
         return false;
     }
+    //smt
 }
